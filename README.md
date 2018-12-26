@@ -7,7 +7,7 @@ Observations and illustrations by [Margaret Armstrong](https://en.wikipedia.org/
   Navigate into your new site’s directory and start it up.
 
   ```sh
-  cd fieldbook-dispatch
+  cd fieldbook-dispatches
   gatsby develop
   ```
 

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Fieldbook Dispatch`,
+    title: `Fieldbook Dispatches`,
     author: `Margaret Armstrong`,
     description: `Observations and illustrations by Margaret Armstrong from her Fieldbook of Western Wild Flowers`,
     siteUrl: `https://fieldbook-dispatch.netlify.com/`,
