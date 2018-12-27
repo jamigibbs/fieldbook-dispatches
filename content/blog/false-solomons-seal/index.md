@@ -1,7 +1,7 @@
 ---
 title: False Solomon's Seal
 subtitle: Vagnera amplexicaulis (Smilacina)
-date: '2018-12-26'
+date: '2018-12-26T12:40:32.169Z'
 attachments:
   - "./false-solomons-seal.jpg"
 ---
